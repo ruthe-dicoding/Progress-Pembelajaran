@@ -1,0 +1,32 @@
+Pada Bulan September, saya mempelajari banyak hal selama mengambil Studi Independen Pengembangan Front-End dan Back-End di Dicoding. 
+Berikut hal-hal yang dipelajari, yaitu 
+  1.  Belajar Membuat Front-End Web untuk Pemula
+      Hal-hal yang dipelajari pada modul ini:   
+      - Browser Object Model dan Document Object Model
+        Penjelasan apa itu BOM dan DOM, Membuat Elemen HTML, Mengubah Konten HTML, dan Menambahkan Elemen HTML ke DOM  
+      - Interaktif dengan Event
+        Penjelasan Interaktif dengan Event, Apa dan Jenis-Jenis Event, Menambahkan Event Handler, Menambahkan dan Membangkitkan Custom Event, Event Bubbling dan Capturing, dan Form Event
+      - Penyimpanan Data dengan Web Storage
+        Pengertian dan Fungsi Web Storage, Macam-macam Web Storage, Local Storage, dan Session Storage.
+      Pada modul ini, setelah menyelesaikan sesi pembelajaran diberikan proyek Pengelolaan Data menggunakan DOM dan Web Storage.
+      Setelah menyelesaikan proyek, peserta mendapatkan sertifikat sebagai hasil dari penyelesaian modul ini.
+
+  2.  Belajar Fundamental Front-End Web Development
+      Hal-hal yang dipelajari pada modul ini:
+      - ECMAScript6
+        Penjelasan ECMAScript 6, Variabel, Template Literals, Destrcuting Object & Array, Function, Class, Method, Promise, setTimeput, Ekspor dan Import Module.
+      - Web Components
+        Penjelasan Web Component dan Custom Element, Shadow DOM
+      - Package Manager
+        Penjelasan Package Manager dan Penggunaan Node.js dan NPM
+      - Bundel dengan Module Bundler
+        Penjelasan Module Bundler, Webpack dan Penggunaannya.
+      - Asynchronous Javascript Request
+        Penjelasan Asynchronous Javascript Request, Web API menggunakan Postman, JSON, AJAX.
+      Pada modul ini, setelah menyelesaikan sesi pembelajaran diberikan proyek Pengelolaan Data menggunakan DOM dan Web Storage.
+      Setelah menyelesaikan proyek, peserta mendapatkan sertifikat sebagai hasil dari penyelesaian modul ini.
+
+
+Berikut lampiran sertifikat dari hasil modul
+  1.  Belajar Membuat Front-End Web untuk Pemula ==> https://www.dicoding.com/certificates/53XE4WWKVZRN
+  2.  Belajar Fundamental Front-End Web Development ==> https://www.dicoding.com/certificates/JLX1W4J3GP72
