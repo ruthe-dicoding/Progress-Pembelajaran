@@ -1,0 +1,18 @@
+Pada Bulan Oktober, saya mempelajari banyak hal selama mengambil Studi Independen Pengembangan Front-End dan Back-End di Dicoding. 
+Berikut hal-hal yang dipelajari pada modul "Menjadi Front-End Web Developer Expert", yaitu 
+  1.  Mobile First Approach
+      - Penerapan dasar responsibilitas tampilan
+      - Penerapan layout yang responsif
+      - Off canvas menu pada penerapan navigation drawer 
+  2.  Aksesibilitas
+  3.  Javascript Clean Code
+      ESLint sebagai linter ketika menuliskan kode JavaScript
+  4. Progressive Web Apps
+      - Pembuatan website dengan arsitektur Application Shell
+      - Penerapan Web App Manifest
+      - Penerapan Service Worker
+      - Penggunaan IndexedDB untuk penyimpanan data
+  5. Automation Testing
+      - Penerapan integration testing dan end to end test
+
+      Pada modul ini, terdapat total tiga submission proyek. Namun, untuk bulan Oktober hanya sampai submssion kedua. Submission terakhir akan dilanjutkan di bulan depan.
